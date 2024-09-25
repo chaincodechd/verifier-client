@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 const Verify = () => {
   const navigate = useNavigate();
-
+  // redirect to scanner for verify 
   const navigateToScanner = () => {
     navigate("/scanner");
   };

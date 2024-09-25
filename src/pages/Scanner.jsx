@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-
+//  Show scanner on the page to verify
 const Scanner = () => {
   return (
     <>

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Scanner from "./pages/Scanner";
 import Verify from "./pages/Verify";
 
+// App with initializing scanner page
 function App() {
   return (
     <Router>
